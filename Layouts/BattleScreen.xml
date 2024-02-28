@@ -31,7 +31,7 @@
             <instances>
                 <instance type="BattleFont" uid="28">
                     <properties>
-                        <character-width>6</character-width>
+                        <cter-width>6</character-width>
                         <character-height>6</character-height>
                         <character-set> !&quot;#$%&amp;&apos;()*+,-./0123456789:;&lt;=&gt;?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_</character-set>
                         <text>92 / 92</text>
@@ -83,7 +83,7 @@
                         <character-width>6</character-width>
                         <character-height>6</character-height>
                         <character-set> !&quot;#$%&amp;&apos;()*+,-./0123456789:;&lt;=&gt;?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_</character-set>
-                        <text>CHARA LV19</text>
+                        <text>NAME LV19</text>
                         <scale>3</scale>
                         <initial-visibility>Visible</initial-visibility>
                         <horizontal-alignment>Left</horizontal-alignment>
